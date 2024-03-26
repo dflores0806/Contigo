@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+<PreferenceCategory android:title="@string/settings_title">
+    <EditTextPreference
+        android:title="@string/register_name"
+        android:summary="@string/settings_name_summary"
+        android:key="nombre"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+         />
+    <EditTextPreference
+        android:title="@string/register_age"
+        android:summary="@string/settings_age_summary"
+        android:key="edad"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+
+    <EditTextPreference
+        android:title="@string/register_address"
+        android:summary="@string/settings_address_summary"
+        android:key="direccion"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+    <EditTextPreference
+        android:title="@string/register_postal_code"
+        android:summary="@string/settings_postal_code_summary"
+        android:key="codigoPostal"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+    <EditTextPreference
+        android:title="@string/register_phone"
+        android:summary="@string/settings_phone_summary"
+        android:key="telefono"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        />
+
+
+    </PreferenceCategory>
+</PreferenceScreen>

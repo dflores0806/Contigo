@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Contigo</string>
+    <string name="action_settings">Settings</string>
+    <string name="info">Info</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_info">Info</string>
+
+    //Intro Activity
+    //mList.add(new ScreenItem("Contigo", "Soy una aplicación que esta pendiente de ti, compruebo que estas bien a través del tiempo de uso de tu dispositivo.", R.drawable.contigo2_t));
+    //mList.add(new ScreenItem("Localización", "Necesito que aceptes los permisos de ubicación, solo se accederá únicamente cuando personal autorizado compruebe que estes bien.", R.drawable.map));
+    //mList.add(new ScreenItem("Batería", "Para un funcionamiento correcto debo mantenerme en segundo plano, por lo que necesito que aceptes permisos adicionales. \n Además, debes acceder a Ajustes -> Aplicaciones -> Contigo y quitar las restricciones de batería.", R.drawable.help));
+    //mList.add(new ScreenItem("Datos Personales", "Tendrás que introducir algunos datos personales por tu seguridad. Solo podrán ser visualizados por el personal autorizado cuando detecte poca actividad en tu dispositivo.", R.drawable.personaldata));
+
+    <string name="intro_skip">Skip</string>
+    <string name="intro_initial_message">I am an app that keeps an eye on you, I check that you are well through the time of use of your device and your vital signs.</string>
+    <string name="intro_location">I need you to accept the location permissions, access will only be granted when authorised persons check that you are OK.</string>
+    <string name="intro_battery">For correct operation I need to stay in the background, so I need you to accept additional permissions. In addition, you must go to Settings -> Applications -> With You and remove battery restrictions.</string>
+    <string name="intro_personal_data">You will have to enter some personal data for your security. They can only be viewed by authorised personnel when they detect little activity on your device and the communication will be secure.</string>
+
+    //Register
+    <string name="register_title">Registration Form</string>
+    <string name="register_age">Age</string>
+    <string name="register_genre">Genre</string>
+    <string name="register_button_male">Male</string>
+    <string name="register_button_female">Female</string>
+    <string name="register_name">Name</string>
+    <string name="register_address">Address</string>
+    <string name="register_postal_code">Postal code</string>
+    <string name="register_phone">Phone (optional)</string>
+    <string name="register_button_register">Sign up</string>
+
+
+    //Settings
+    <string name="settings_title">Personal Information</string>
+    <string name="settings_name_summary">You can edit your name</string>
+    <string name="settings_age_summary">You can edit your age</string>
+    <string name="settings_address_summary">You can edit your address</string>
+    <string name="settings_postal_code_summary">You can edit your postal code</string>
+    <string name="settings_phone_summary">You can edit your phone</string>
+    //Main Fragment
+
+    <string name="welcome">Welcome</string>
+    <string name="activity_status">Your activity in the last 24 hours is:</string>
+
+
+    <string name="terms">
+        Accepts the
+    </string>
+
+
+
+    <string name="terminosycondiciones">
+        By providing the data you accept the <a href="https://spilapps.unex.es/resources/contigo_privacy.pdf">Terms and Conditions of Use.</a>.
+    </string>
+
+    <string name="acknowledgements">This project has been financed by ERDF and IEE funds.</string>
+
+
+</resources>

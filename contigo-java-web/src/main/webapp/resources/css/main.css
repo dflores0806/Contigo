@@ -1,0 +1,29 @@
+#map {
+	height: 100%;
+	width: 100%;
+}
+
+.container-map {
+	height: 75em;
+	width: 100%;
+}
+
+#loading {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  position: fixed;
+  display: block;
+  opacity: 0.7;
+  background-color: #fff;
+  z-index: 99;
+  text-align: center;
+}
+
+#loading-image {
+  position: absolute;
+  top: 35%;
+  margin:0 auto;
+  z-index: 100;
+}
