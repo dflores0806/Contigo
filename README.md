@@ -235,6 +235,10 @@ In addition, you can directly test the platform on our server. You will need to 
   https://spilapps.unex.es/contigo
 ```
 
+## License
+
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
+
 ## Authors
 
 - Daniel Flores-Martin: dfloresm@unex.es
