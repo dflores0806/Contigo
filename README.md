@@ -239,6 +239,19 @@ In addition, you can directly test the platform on our server. You will need to 
 
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en)
 
+## File structure
+
+```
+Contigo
+└───src
+│   └───contigo-android-app
+│   └───contigo-api
+│   └───contigo-java-web
+│
+│   LICENSE
+│   README.md
+```
+
 ## Authors
 
 - Daniel Flores-Martin: dfloresm@unex.es
